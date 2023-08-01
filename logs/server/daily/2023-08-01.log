@@ -66,3 +66,25 @@ error:
    {"timestamp":"2023-08-01T06:31:17.929Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T06:32:08.687Z"}
 info: Connected to the database. {"timestamp":"2023-08-01T06:32:08.705Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T06:58:35.469Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T06:58:35.487Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:01:34.726Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:01:34.744Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:02:13.761Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:02:13.788Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:05:27.931Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:05:27.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:06:34.569Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:06:34.587Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:06:38.029Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:06:38.046Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:07:20.040Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:07:20.056Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:08:24.433Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:08:24.451Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:10:39.556Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:10:39.576Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:12:17.029Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:12:17.048Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-01T07:14:41.123Z"}
+info: Connected to the database. {"timestamp":"2023-08-01T07:14:41.139Z"}
