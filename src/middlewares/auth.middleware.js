@@ -25,10 +25,7 @@ export const userAuth = async (req, res, next) => {
       bearerToken,
       process.env.SECRET_TOKEN_KEY
     );
-    console.log(user);
     req.body.admin_user_id = user.id;
-    console.log(req.body.admin_user_id);
-
     next();
   } catch (error) {
     res.status(HttpStatus.BAD_REQUEST).json({
