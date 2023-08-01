@@ -21,11 +21,12 @@ export const newUser = async (body) => {
 
 //User Login
 export const userLogin = async (body) => {
+  let userid = '616fdcc474dbc1000e41e655';
   const data = await User.findOne({ emailId: body.emailId });
   if (data) {
     if (bcrypt.compareSync(body.passWord, data.passWord)) {
       var token = jwt.sign(
-        { id: data.id, emailId: data.emailId },
+        { id: userid, emailId: data.emailId },
         process.env.SECRET_TOKEN_KEY,
         { expiresIn: '10h' }
       );
