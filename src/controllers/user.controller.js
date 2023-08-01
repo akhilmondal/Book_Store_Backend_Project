@@ -1,12 +1,7 @@
 import HttpStatus from 'http-status-codes';
 import * as UserService from '../services/user.service';
 
-/**
- * Controller to create a new user
- * @param  {object} req - request object
- * @param {object} res - response object
- * @param {Function} next
- */
+// Controller to create a new user
 export const newUser = async (req, res, next) => {
   try {
     const data = await UserService.newUser(req.body);
@@ -14,6 +9,23 @@ export const newUser = async (req, res, next) => {
       code: HttpStatus.CREATED,
       data: data,
       message: 'User created successfully'
+    });
+  } catch (error) {
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
+  }
+};
+
+// Controller to login an user
+export const userLogin = async (req, res, next) => {
+  try {
+    const userToken = await UserService.userLogin(req.body);
+    res.status(HttpStatus.ACCEPTED).json({
+      code: HttpStatus.ACCEPTED,
+      userToken: userToken,
+      message: 'User logged in successfully'
     });
   } catch (error) {
     res.status(HttpStatus.BAD_REQUEST).json({

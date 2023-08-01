@@ -6,8 +6,11 @@ import { userAuth } from '../middlewares/auth.middleware';
 const router = express.Router();
 
 
-//route to create a new user
+//Route to create a new user for Book Store
 router.post('', newUserValidator, userController.newUser);
+
+//Route to login a user to Book Store
+router.post('/login', userController.userLogin);
 
 
 
