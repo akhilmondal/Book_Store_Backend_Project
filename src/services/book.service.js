@@ -6,6 +6,12 @@ export const getAllBooks = async (body) => {
   return data;
 };
 
+//get books by book id
+export const getBookById = async (_id) => {
+  const data = await Book.findById(_id);
+  return data;
+};
+
 //update Books
 export const updateBook = async (_id, body) => {
   const data = await Book.findByIdAndUpdate(
