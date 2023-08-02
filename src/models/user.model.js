@@ -13,8 +13,10 @@ const userSchema = new Schema(
     },
     phoneNumber: {
       type: String
+    },
+    designation: {
+      type: String
     }
-
   },
   {
     timestamps: true

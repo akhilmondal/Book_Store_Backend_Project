@@ -15,7 +15,8 @@ export const newUserValidator = (req, res, next) => {
     passWord: Joi.string()
       .regex(/^[0-9A-Za-z]{7,}[@!#$%^&*]{1,}$/)
       .required(),
-    phoneNumber: Joi.string().regex(/^91\s\d{10}$/)
+    phoneNumber: Joi.string().regex(/^91\s\d{10}$/).required(),
+    designation: Joi.string().optional()
   });
   const { error, value } = schema.validate(req.body);
   if (error) {

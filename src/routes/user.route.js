@@ -7,10 +7,13 @@ const router = express.Router();
 
 
 //Route to create a new user for Book Store
-router.post('', newUserValidator, userController.newUser);
+router.post('', newUserValidator, userController.userRegistration);
+
 
 //Route to login a user to Book Store
 router.post('/login', userController.userLogin);
+
+
 
 
 
