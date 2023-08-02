@@ -2,9 +2,9 @@ import HttpStatus from 'http-status-codes';
 import * as UserService from '../services/user.service';
 
 // Controller to create a new user
-export const newUser = async (req, res, next) => {
+export const userRegistration = async (req, res, next) => {
   try {
-    const data = await UserService.newUser(req.body);
+    const data = await UserService.userRegistration(req.body);
     res.status(HttpStatus.CREATED).json({
       code: HttpStatus.CREATED,
       data: data,

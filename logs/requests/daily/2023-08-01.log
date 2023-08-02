@@ -100,3 +100,21 @@ info: ::1 - - [01/Aug/2023:09:09:15 +0000] "GET /api/v1/books HTTP/1.1" 200 4718
 
 info: ::1 - - [01/Aug/2023:11:12:57 +0000] "GET /api/v1/books HTTP/1.1" 200 4718 "-" "PostmanRuntime/7.32.3"
 
+info: ::1 - - [01/Aug/2023:12:29:03 +0000] "GET /api/v1/users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [01/Aug/2023:12:29:12 +0000] "POST /api/v1/users HTTP/1.1" 400 57 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [01/Aug/2023:12:29:32 +0000] "POST /api/v1/users HTTP/1.1" 201 364 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [01/Aug/2023:12:30:25 +0000] "POST /api/v1/users/login HTTP/1.1" 202 312 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [01/Aug/2023:12:33:37 +0000] "PUT /api/v1/books/6215178d05253301a4fda5c4 HTTP/1.1" 202 399 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [01/Aug/2023:12:34:36 +0000] "PUT /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [01/Aug/2023:12:34:43 +0000] "POST /api/v1/users/login HTTP/1.1" 400 64 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [01/Aug/2023:12:35:15 +0000] "POST /api/v1/users/login HTTP/1.1" 202 291 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [01/Aug/2023:12:36:14 +0000] "PUT /api/v1/books/6215178d05253301a4fda5c4 HTTP/1.1" 400 88 "-" "PostmanRuntime/7.32.3"
+

@@ -5,7 +5,7 @@ import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 
 //create new user
-export const newUser = async (body) => {
+export const userRegistration = async (body) => {
   const userPresent = await User.findOne({ emailId: body.emailId });
   if (userPresent) {
     throw new Error('User is already Present. ');
@@ -21,12 +21,11 @@ export const newUser = async (body) => {
 
 //User Login
 export const userLogin = async (body) => {
-  let userid = '616fdcc474dbc1000e41e655';
   const data = await User.findOne({ emailId: body.emailId });
   if (data) {
     if (bcrypt.compareSync(body.passWord, data.passWord)) {
       var token = jwt.sign(
-        { id: userid, emailId: data.emailId },
+        { id: data.id, emailId: data.emailId, designation: data.designation },
         process.env.SECRET_TOKEN_KEY,
         { expiresIn: '10h' }
       );
