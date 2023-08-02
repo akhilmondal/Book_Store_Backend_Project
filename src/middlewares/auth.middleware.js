@@ -3,14 +3,7 @@ dotenv.config();
 import HttpStatus from 'http-status-codes';
 import jwt from 'jsonwebtoken';
 
-/**
- * Middleware to authenticate if user has a valid Authorization token
- * Authorization: Bearer <token>
- *
- * @param {Object} req
- * @param {Object} res
- * @param {Function} next
- */
+let userDesignation;
 export const userAuth = async (req, res, next) => {
   try {
     let bearerToken = req.header('Authorization');
@@ -23,6 +16,7 @@ export const userAuth = async (req, res, next) => {
 
     const user = await jwt.verify(bearerToken, process.env.SECRET_TOKEN_KEY);
     req.body.admin_user_id = user.id;
+    userDesignation = user.designation;
     next();
   } catch (error) {
     res.status(HttpStatus.BAD_REQUEST).json({
@@ -34,16 +28,7 @@ export const userAuth = async (req, res, next) => {
 
 export const userRoleCheck = async (req, res, next) => {
   try {
-    let bearerToken = req.header('Authorization');
-    if (!bearerToken)
-      throw {
-        code: HttpStatus.BAD_REQUEST,
-        message: 'Authorization token is required'
-      };
-    bearerToken = bearerToken.split(' ')[1];
-
-    const user = await jwt.verify(bearerToken, process.env.SECRET_TOKEN_KEY);
-    if (user.designation == 'admin') {
+    if (userDesignation == 'admin') {
       next();
     } else {
       throw {

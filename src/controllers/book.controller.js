@@ -5,7 +5,6 @@ import * as BookService from '../services/book.service';
 export const getAllBooks = async (req, res, next) => {
   try {
     const data = await BookService.getAllBooks(req.body);
-    console.log(req.body);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: data,
@@ -18,6 +17,24 @@ export const getAllBooks = async (req, res, next) => {
     });
   }
 };
+
+
+// Controller for get book by id
+export const getBookById = async (req,res,next) => {
+  try {
+    const data = await BookService.getBookById(req.params._id);
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'Book fetched successfully with Id'
+    });
+  } catch (error) {
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
+  }
+}
 
 //Controller to Update Book
 export const updateBook = async (req, res, next) => {
