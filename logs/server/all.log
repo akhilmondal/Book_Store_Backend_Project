@@ -400,3 +400,466 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T0
 info: Connected to the database. {"timestamp":"2023-08-02T08:44:26.224Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T08:56:45.423Z"}
 info: Connected to the database. {"timestamp":"2023-08-02T08:56:45.438Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T11:26:45.402Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T11:26:45.423Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T11:36:03.343Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T11:36:03.360Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T11:48:37.527Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T11:48:37.548Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T12:00:10.231Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T12:00:10.263Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T12:03:38.556Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T12:03:38.590Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T12:07:54.584Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T12:07:54.612Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T12:13:09.580Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T12:13:09.611Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T12:19:01.776Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T12:19:01.808Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T12:25:10.375Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T12:25:10.410Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T12:28:36.383Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T12:28:36.399Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T17:08:57.594Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T17:09:17.702Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-02T17:21:45.329Z"}
+info: Connected to the database. {"timestamp":"2023-08-02T17:21:45.346Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T00:35:39.143Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T00:35:39.164Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T00:54:57.403Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T00:54:57.419Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T01:03:15.981Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T01:03:15.999Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T01:12:02.528Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T01:12:02.550Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T01:28:58.421Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T01:28:58.440Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T01:29:31.134Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T01:29:31.153Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T01:33:34.973Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T01:33:34.990Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T01:51:53.819Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T01:51:53.839Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T01:53:15.366Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T01:53:15.389Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T01:58:47.570Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T01:58:47.598Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:01:13.288Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:01:13.309Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:07:09.340Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:07:09.364Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:07:46.166Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:07:46.188Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:09:15.493Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:09:15.510Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:12:00.918Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:12:00.937Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:13:48.625Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:13:48.644Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:23:52.753Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:23:52.773Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:23:56.132Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:23:56.156Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:24:48.910Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:24:48.932Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:25:06.318Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:25:06.334Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:26:37.469Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:26:37.486Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:40:16.244Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:40:16.269Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:47:15.386Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:47:15.404Z"}
+error: uncaughtException: Can't save() the same doc multiple times in parallel. Document: 64ca17fd6463f6267c4b2edb
+ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 64ca17fd6463f6267c4b2edb
+    at model.save (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/mongoose/lib/model.js:486:20)
+    at forEach (/home/akhil/CFP238/Book_Store_Backend/BookStore/src/services/cart.service.js:44:14)
+    at CoreDocumentArray.forEach (<anonymous>)
+    at _callee$ (/home/akhil/CFP238/Book_Store_Backend/BookStore/src/services/cart.service.js:30:16)
+    at tryCatch (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js:125:22)
+    at Generator.next (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
+    at _next (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {"date":"Thu Aug 03 2023 08:17:54 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0.91,0.78,0.7],"uptime":39552.95},"process":{"argv":["node","/home/akhil/CFP238/Book_Store_Backend/BookStore/src/index.js"],"cwd":"/home/akhil/CFP238/Book_Store_Backend/BookStore","execPath":"/usr/local/bin/node","gid":1000,"memoryUsage":{"arrayBuffers":18468776,"external":19956623,"heapTotal":56655872,"heapUsed":51616336,"rss":117608448},"pid":38341,"uid":1000,"version":"v18.16.1"},"stack":"ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 64ca17fd6463f6267c4b2edb\n    at model.save (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/mongoose/lib/model.js:486:20)\n    at forEach (/home/akhil/CFP238/Book_Store_Backend/BookStore/src/services/cart.service.js:44:14)\n    at CoreDocumentArray.forEach (<anonymous>)\n    at _callee$ (/home/akhil/CFP238/Book_Store_Backend/BookStore/src/services/cart.service.js:30:16)\n    at tryCatch (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js:44:17)\n    at Generator.<anonymous> (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js:125:22)\n    at Generator.next (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js:69:21)\n    at asyncGeneratorStep (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)\n    at _next (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js:22:9)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2023-08-03T02:47:54.200Z","trace":[{"column":20,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/mongoose/lib/model.js","function":"model.save","line":486,"method":"save","native":false},{"column":14,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/src/services/cart.service.js","function":"forEach","line":44,"method":null,"native":false},{"column":null,"file":null,"function":"CoreDocumentArray.forEach","line":null,"method":"forEach","native":false},{"column":16,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/src/services/cart.service.js","function":"_callee$","line":30,"method":null,"native":false},{"column":17,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js","function":"tryCatch","line":44,"method":null,"native":false},{"column":22,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js","function":null,"line":125,"method":null,"native":false},{"column":21,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js","function":"Generator.next","line":69,"method":"next","native":false},{"column":24,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js","function":"_next","line":22,"method":null,"native":false},{"column":5,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":95,"method":null,"native":false}]}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:48:42.765Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:48:42.782Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T02:52:39.038Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T02:52:39.061Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T03:04:18.313Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T03:04:18.335Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T03:07:24.734Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T03:07:24.751Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T03:10:59.462Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T03:10:59.480Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T03:22:00.593Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T03:22:00.630Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T05:26:47.059Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T05:26:57.630Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:24:17.033Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:24:17.050Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:24:28.952Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:24:28.967Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:25:20.147Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:25:20.167Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:28:31.536Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:28:31.554Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:30:43.528Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:30:43.546Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:31:13.946Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:31:13.963Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:33:55.390Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:33:55.408Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:37:26.622Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:37:26.650Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:42:53.776Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:42:53.818Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:43:09.386Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:43:09.413Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:46:55.937Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:46:55.966Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:47:28.589Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:47:28.616Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:47:45.058Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:47:45.093Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:49:10.522Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:49:10.556Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T07:54:12.539Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T07:54:12.570Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:00:16.328Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:00:16.357Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:00:36.203Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:00:36.241Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:01:16.812Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:01:16.840Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:04:01.935Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:04:01.964Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:05:03.499Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:05:03.530Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:06:19.027Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:06:19.056Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:07:26.815Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:07:26.847Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:08:14.916Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:08:14.946Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:09:02.069Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:09:02.099Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:13:12.574Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:13:12.616Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T08:15:37.557Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T08:15:37.583Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:42:47.474Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:42:47.493Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:46:26.931Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:46:26.952Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:46:33.564Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:46:33.582Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:47:57.603Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:47:57.626Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:49:02.781Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:49:02.798Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:49:26.214Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:49:26.240Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:56:53.641Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:56:53.658Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:58:17.074Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:58:17.101Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:59:20.991Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:59:21.012Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T09:59:53.766Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T09:59:53.802Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:00:20.049Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:00:20.070Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:00:22.564Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:00:22.587Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:01:36.353Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:01:36.379Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:02:23.104Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:02:23.122Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:02:53.352Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:02:53.372Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:02:55.926Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:02:55.943Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:04:22.912Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:04:22.931Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:05:21.411Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:05:21.431Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:06:04.791Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:06:04.813Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:06:15.747Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:06:15.771Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:07:10.457Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:07:10.474Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:07:47.806Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:07:47.827Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:07:51.438Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:07:51.462Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:07:59.386Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:07:59.405Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:08:52.794Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:08:52.823Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:11:17.571Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:11:17.590Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:12:21.611Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:12:21.631Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:13:32.879Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:13:32.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:13:35.055Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:13:35.099Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:13:43.359Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:13:43.387Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:14:46.842Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:14:46.862Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:14:56.958Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:14:56.978Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:21:54.668Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:21:54.687Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:22:21.029Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:22:21.047Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:23:04.826Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:23:04.847Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:24:47.941Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:24:47.960Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:31:35.321Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:31:35.340Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:32:23.392Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:32:23.412Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:33:16.888Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:33:16.909Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:48:36.073Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:48:36.104Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:48:56.192Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:48:56.220Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:50:28.999Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:50:29.025Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:50:42.003Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:50:42.035Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:51:27.989Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:51:28.023Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:53:07.573Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:53:07.607Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:54:38.849Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:54:38.879Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:57:33.714Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:57:33.744Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:58:05.754Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:58:05.778Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T10:59:30.168Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T10:59:30.195Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:03:33.852Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:03:33.880Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:03:55.563Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:03:55.590Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:06:28.128Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:06:28.161Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:10:44.386Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:10:44.416Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:11:03.691Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:11:03.721Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:13:09.882Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:13:09.915Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:13:46.605Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:13:46.638Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:20:01.539Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:20:01.566Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:20:42.028Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:20:42.062Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:21:06.174Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:21:06.198Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:38:10.448Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:38:21.522Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:41:02.288Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:41:02.316Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:53:39.969Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:53:39.989Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:54:27.573Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:54:27.595Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:54:30.304Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:54:30.321Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:54:46.600Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:54:46.623Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T11:57:19.627Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T11:57:19.646Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:01:16.793Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:01:16.812Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:02:26.441Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:02:26.460Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:02:39.066Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:02:39.084Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:05:35.695Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:05:35.718Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:06:20.090Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:06:20.107Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:08:52.159Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:08:52.177Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:09:23.740Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:09:23.757Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:09:46.918Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:09:46.940Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:12:25.312Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:12:25.336Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:13:43.849Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:13:43.870Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:19:00.350Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:19:00.373Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:19:38.782Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:19:38.808Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:20:07.243Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:20:07.262Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:21:00.592Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:21:00.608Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:23:18.189Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:23:18.205Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:31:38.656Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:31:38.673Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:31:57.487Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:31:57.512Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:33:15.865Z"}
+info: Connected to the database. {"timestamp":"2023-08-03T12:33:15.881Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-03T12:38:17.385Z"}
+error: uncaughtException: EIO: i/o error, write
+Error: EIO: i/o error, write
+    at writeSync (node:fs:934:3)
+    at SyncWriteStream._write (node:internal/fs/sync_write_stream:26:3)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at SyncWriteStream.Writable.write (node:internal/streams/writable:337:10)
+    at Console.log (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js:82:19)
+    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:381:5)
+    at Console.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:302:11)
+    at DerivedLogger.ondata (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:525:35)
+    at DerivedLogger.emit (node:domain:489:12)
+    at addChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)
+    at readableAddChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:262:11)
+    at DerivedLogger.Readable.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:228:10) {"date":"Thu Aug 03 2023 18:08:17 GMT+0530 (India Standard Time)","error":{"code":"EIO","errno":-5,"syscall":"write"},"exception":true,"os":{"loadavg":[0.74,0.63,0.71],"uptime":3678.68},"process":{"argv":["node","/home/akhil/CFP238/Book_Store_Backend/BookStore/src/index.js"],"cwd":"/home/akhil/CFP238/Book_Store_Backend/BookStore","execPath":"/usr/local/bin/node","gid":1000,"memoryUsage":{"arrayBuffers":18352144,"external":19842338,"heapTotal":95608832,"heapUsed":48230696,"rss":151683072},"pid":14054,"uid":1000,"version":"v18.16.1"},"stack":"Error: EIO: i/o error, write\n    at writeSync (node:fs:934:3)\n    at SyncWriteStream._write (node:internal/fs/sync_write_stream:26:3)\n    at writeOrBuffer (node:internal/streams/writable:392:12)\n    at _write (node:internal/streams/writable:333:10)\n    at SyncWriteStream.Writable.write (node:internal/streams/writable:337:10)\n    at Console.log (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js:79:23)\n    at Console._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js:82:19)\n    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:525:35)\n    at DerivedLogger.emit (node:domain:489:12)\n    at addChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)\n    at readableAddChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:262:11)\n    at DerivedLogger.Readable.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:228:10)","timestamp":"2023-08-03T12:38:17.393Z","trace":[{"column":3,"file":"node:fs","function":"writeSync","line":934,"method":null,"native":false},{"column":3,"file":"node:internal/fs/sync_write_stream","function":"SyncWriteStream._write","line":26,"method":"_write","native":false},{"column":12,"file":"node:internal/streams/writable","function":"writeOrBuffer","line":392,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"_write","line":333,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"SyncWriteStream.Writable.write","line":337,"method":"write","native":false},{"column":23,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js","function":"Console.log","line":79,"method":"log","native":false},{"column":19,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js","function":"Console._write","line":82,"method":"_write","native":false},{"column":139,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"doWrite","line":390,"method":null,"native":false},{"column":5,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"writeOrBuffer","line":381,"method":null,"native":false},{"column":11,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"Console.Writable.write","line":302,"method":"write","native":false},{"column":20,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"DerivedLogger.ondata","line":629,"method":"ondata","native":false},{"column":35,"file":"node:events","function":"DerivedLogger.emit","line":525,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"DerivedLogger.emit","line":489,"method":"emit","native":false},{"column":12,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"addChunk","line":279,"method":null,"native":false},{"column":11,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"readableAddChunk","line":262,"method":null,"native":false},{"column":10,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"DerivedLogger.Readable.push","line":228,"method":"push","native":false}]}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T01:55:28.011Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T01:55:28.028Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T02:09:08.635Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T02:09:08.674Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T02:09:54.984Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T02:09:55.022Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T02:11:25.440Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T02:11:25.469Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T02:16:41.317Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T02:16:41.345Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T02:18:17.331Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T02:18:17.358Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T02:31:50.928Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T02:31:50.965Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T02:43:32.878Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T02:43:32.900Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T03:02:12.893Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T03:02:12.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T03:07:59.423Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T03:07:59.450Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T03:09:37.557Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T03:09:37.586Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T03:11:27.262Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T03:11:27.293Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T03:12:41.155Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T03:12:41.184Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T03:13:05.312Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T03:13:05.341Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T03:23:14.335Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T03:23:14.363Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T03:23:33.598Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T03:23:33.633Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T06:28:35.845Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T06:28:35.880Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T06:46:13.446Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T06:46:13.480Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T06:46:29.168Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T06:46:29.209Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:02:34.054Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:02:34.090Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:03:52.724Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:03:52.769Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:03:56.789Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:03:56.831Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:04:31.925Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:04:31.959Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:04:57.229Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:04:57.266Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:05:16.240Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:05:16.277Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:24:03.894Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:24:03.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:27:58.412Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:27:58.461Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:29:07.429Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:29:07.459Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:31:54.410Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:31:54.456Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:33:09.149Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:33:09.184Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:33:17.999Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:33:18.032Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:34:34.173Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:34:34.211Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:45:25.768Z"}
+error: Could not connect to the database. connect ECONNREFUSED 127.0.0.1:27017 {"reason":{"commonWireVersion":null,"compatibilityError":null,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Single"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at NativeConnection.Connection.openUri (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/mongoose/lib/connection.js:847:32)\n    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/mongoose/lib/index.js:351:10\n    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)\n    at Mongoose._promiseOrCallback (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/mongoose/lib/index.js:1149:10)\n    at Mongoose.connect (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/mongoose/lib/index.js:350:20)\n    at _callee$ (/home/akhil/CFP238/Book_Store_Backend/BookStore/src/config/database.js:12:20)\n    at tryCatch (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js:44:17)\n    at Generator.<anonymous> (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js:125:22)\n    at Generator.next (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/regeneratorRuntime.js:69:21)\n    at asyncGeneratorStep (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)\n    at _next (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js:22:9)\n    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js:27:7\n    at new Promise (<anonymous>)\n    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/@babel/runtime/helpers/asyncToGenerator.js:19:12","timestamp":"2023-08-04T07:45:55.773Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:46:15.026Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T07:46:15.058Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T07:53:45.475Z"}
+error: uncaughtException: EIO: i/o error, write
+Error: EIO: i/o error, write
+    at writeSync (node:fs:934:3)
+    at SyncWriteStream._write (node:internal/fs/sync_write_stream:26:3)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at SyncWriteStream.Writable.write (node:internal/streams/writable:337:10)
+    at Console.log (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js:82:19)
+    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:381:5)
+    at Console.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:302:11)
+    at DerivedLogger.ondata (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:525:35)
+    at DerivedLogger.emit (node:domain:489:12)
+    at addChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)
+    at readableAddChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:262:11)
+    at DerivedLogger.Readable.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:228:10) {"date":"Fri Aug 04 2023 13:23:45 GMT+0530 (India Standard Time)","error":{"code":"EIO","errno":-5,"syscall":"write"},"exception":true,"os":{"loadavg":[2.47,0.92,0.6],"uptime":968.23},"process":{"argv":["node","/home/akhil/CFP238/Book_Store_Backend/BookStore/src/index.js"],"cwd":"/home/akhil/CFP238/Book_Store_Backend/BookStore","execPath":"/usr/local/bin/node","gid":1000,"memoryUsage":{"arrayBuffers":18368528,"external":19860202,"heapTotal":94822400,"heapUsed":61523896,"rss":153989120},"pid":12585,"uid":1000,"version":"v18.16.1"},"stack":"Error: EIO: i/o error, write\n    at writeSync (node:fs:934:3)\n    at SyncWriteStream._write (node:internal/fs/sync_write_stream:26:3)\n    at writeOrBuffer (node:internal/streams/writable:392:12)\n    at _write (node:internal/streams/writable:333:10)\n    at SyncWriteStream.Writable.write (node:internal/streams/writable:337:10)\n    at Console.log (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js:79:23)\n    at Console._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js:82:19)\n    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:525:35)\n    at DerivedLogger.emit (node:domain:489:12)\n    at addChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)\n    at readableAddChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:262:11)\n    at DerivedLogger.Readable.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:228:10)","timestamp":"2023-08-04T07:53:45.491Z","trace":[{"column":3,"file":"node:fs","function":"writeSync","line":934,"method":null,"native":false},{"column":3,"file":"node:internal/fs/sync_write_stream","function":"SyncWriteStream._write","line":26,"method":"_write","native":false},{"column":12,"file":"node:internal/streams/writable","function":"writeOrBuffer","line":392,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"_write","line":333,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"SyncWriteStream.Writable.write","line":337,"method":"write","native":false},{"column":23,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js","function":"Console.log","line":79,"method":"log","native":false},{"column":19,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js","function":"Console._write","line":82,"method":"_write","native":false},{"column":139,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"doWrite","line":390,"method":null,"native":false},{"column":5,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"writeOrBuffer","line":381,"method":null,"native":false},{"column":11,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"Console.Writable.write","line":302,"method":"write","native":false},{"column":20,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"DerivedLogger.ondata","line":629,"method":"ondata","native":false},{"column":35,"file":"node:events","function":"DerivedLogger.emit","line":525,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"DerivedLogger.emit","line":489,"method":"emit","native":false},{"column":12,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"addChunk","line":279,"method":null,"native":false},{"column":11,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"readableAddChunk","line":262,"method":null,"native":false},{"column":10,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"DerivedLogger.Readable.push","line":228,"method":"push","native":false}]}
+info: Connected to the database. {"timestamp":"2023-08-04T07:53:45.540Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T08:02:53.410Z"}
+error: uncaughtException: EIO: i/o error, write
+Error: EIO: i/o error, write
+    at writeSync (node:fs:934:3)
+    at SyncWriteStream._write (node:internal/fs/sync_write_stream:26:3)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at SyncWriteStream.Writable.write (node:internal/streams/writable:337:10)
+    at Console.log (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js:82:19)
+    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:381:5)
+    at Console.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:302:11)
+    at DerivedLogger.ondata (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:525:35)
+    at DerivedLogger.emit (node:domain:489:12)
+    at addChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)
+    at readableAddChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:262:11)
+    at DerivedLogger.Readable.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:228:10)
+    at DerivedLogger.Transform.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:132:32)
+    at DerivedLogger._transform (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/logger.js:313:12)
+    at DerivedLogger.Transform._read (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:166:10)
+    at DerivedLogger.Transform._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:155:83)
+    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:381:5)
+    at DerivedLogger.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:302:11)
+    at DerivedLogger.info (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/create-logger.js:81:14)
+    at Server.<anonymous> (/home/akhil/CFP238/Book_Store_Backend/BookStore/src/index.js:38:10)
+    at Object.onceWrapper (node:events:627:28)
+    at Server.emit (node:events:513:28)
+    at Server.emit (node:domain:489:12)
+    at emitListeningNT (node:net:1774:10)
+    at processTicksAndRejections (node:internal/process/task_queues:81:21) {"date":"Fri Aug 04 2023 13:32:53 GMT+0530 (India Standard Time)","error":{"code":"EIO","errno":-5,"syscall":"write"},"exception":true,"os":{"loadavg":[0.48,0.77,0.7],"uptime":1516.16},"process":{"argv":["node","/home/akhil/CFP238/Book_Store_Backend/BookStore/src/index.js"],"cwd":"/home/akhil/CFP238/Book_Store_Backend/BookStore","execPath":"/usr/local/bin/node","gid":1000,"memoryUsage":{"arrayBuffers":19915182,"external":21406169,"heapTotal":97165312,"heapUsed":59972672,"rss":155795456},"pid":13693,"uid":1000,"version":"v18.16.1"},"stack":"Error: EIO: i/o error, write\n    at writeSync (node:fs:934:3)\n    at SyncWriteStream._write (node:internal/fs/sync_write_stream:26:3)\n    at writeOrBuffer (node:internal/streams/writable:392:12)\n    at _write (node:internal/streams/writable:333:10)\n    at SyncWriteStream.Writable.write (node:internal/streams/writable:337:10)\n    at Console.log (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js:79:23)\n    at Console._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js:82:19)\n    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:525:35)\n    at DerivedLogger.emit (node:domain:489:12)\n    at addChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)\n    at readableAddChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:262:11)\n    at DerivedLogger.Readable.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:228:10)\n    at DerivedLogger.Transform.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:132:32)\n    at DerivedLogger._transform (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/logger.js:313:12)\n    at DerivedLogger.Transform._read (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:166:10)\n    at DerivedLogger.Transform._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:155:83)\n    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at DerivedLogger.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.info (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/create-logger.js:81:14)\n    at Server.<anonymous> (/home/akhil/CFP238/Book_Store_Backend/BookStore/src/index.js:38:10)\n    at Object.onceWrapper (node:events:627:28)\n    at Server.emit (node:events:513:28)\n    at Server.emit (node:domain:489:12)\n    at emitListeningNT (node:net:1774:10)\n    at processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2023-08-04T08:02:53.420Z","trace":[{"column":3,"file":"node:fs","function":"writeSync","line":934,"method":null,"native":false},{"column":3,"file":"node:internal/fs/sync_write_stream","function":"SyncWriteStream._write","line":26,"method":"_write","native":false},{"column":12,"file":"node:internal/streams/writable","function":"writeOrBuffer","line":392,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"_write","line":333,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"SyncWriteStream.Writable.write","line":337,"method":"write","native":false},{"column":23,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js","function":"Console.log","line":79,"method":"log","native":false},{"column":19,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js","function":"Console._write","line":82,"method":"_write","native":false},{"column":139,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"doWrite","line":390,"method":null,"native":false},{"column":5,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"writeOrBuffer","line":381,"method":null,"native":false},{"column":11,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"Console.Writable.write","line":302,"method":"write","native":false},{"column":20,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"DerivedLogger.ondata","line":629,"method":"ondata","native":false},{"column":35,"file":"node:events","function":"DerivedLogger.emit","line":525,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"DerivedLogger.emit","line":489,"method":"emit","native":false},{"column":12,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"addChunk","line":279,"method":null,"native":false},{"column":11,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"readableAddChunk","line":262,"method":null,"native":false},{"column":10,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"DerivedLogger.Readable.push","line":228,"method":"push","native":false},{"column":32,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js","function":"DerivedLogger.Transform.push","line":132,"method":"push","native":false},{"column":12,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/logger.js","function":"DerivedLogger._transform","line":313,"method":"_transform","native":false},{"column":10,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js","function":"DerivedLogger.Transform._read","line":166,"method":"_read","native":false},{"column":83,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js","function":"DerivedLogger.Transform._write","line":155,"method":"_write","native":false},{"column":139,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js","function":"doWrite","line":390,"method":null,"native":false},{"column":5,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js","function":"writeOrBuffer","line":381,"method":null,"native":false},{"column":11,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js","function":"DerivedLogger.Writable.write","line":302,"method":"write","native":false},{"column":14,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/create-logger.js","function":"DerivedLogger.info","line":81,"method":"info","native":false},{"column":10,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/src/index.js","function":null,"line":38,"method":null,"native":false},{"column":28,"file":"node:events","function":"Object.onceWrapper","line":627,"method":"onceWrapper","native":false},{"column":28,"file":"node:events","function":"Server.emit","line":513,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"Server.emit","line":489,"method":"emit","native":false},{"column":10,"file":"node:net","function":"emitListeningNT","line":1774,"method":null,"native":false},{"column":21,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":81,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2023-08-04T08:02:53.440Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T08:41:34.784Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T08:41:34.814Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T08:45:28.246Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T08:45:28.281Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-04T08:46:23.599Z"}
+info: Connected to the database. {"timestamp":"2023-08-04T08:46:23.640Z"}
