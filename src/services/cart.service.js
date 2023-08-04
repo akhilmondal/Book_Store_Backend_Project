@@ -30,8 +30,6 @@ export const addBookToCart = async (_id, body) => {
   } else {
     let total;
     const existingCartItem = cart.books.filter((item) => item.bookId == _id);
-    // console.log('existing cart----------------', existingCartItem.length);
-    // console.log('------------------', cart.books);
     if (existingCartItem.length > 0) {
       const bookItem = cart.books.map((item) => {
         total = cart.cartTotal + item.price; //cart total
@@ -71,5 +69,34 @@ export const addBookToCart = async (_id, body) => {
       );
       return cart;
     }
+  }
+};
+
+// Remove book from cart
+
+export const removeBookFromCart = async (_id, body) => {
+  const cart = await Cart.findOne({ userId: body.user_id });
+  if (cart) {
+    let total;
+    cart.books.map((item) => {
+      total = cart.cartTotal - item.price; //cart total
+      if (item.bookId == _id) {
+        if (item.quantity != 1) {
+          item.quantity -= 1; //book quantity
+          return item;
+        } else {
+          cart.books.pop(item);
+          return item;
+        }
+      }
+    });
+    await Cart.updateOne(
+      { userId: body.user_id },
+      { books: cart.books, cartTotal: total },
+      {
+        new: true
+      }
+    );
+    return cart;
   }
 };

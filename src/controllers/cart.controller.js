@@ -20,3 +20,22 @@ export const addBookToCart = async (req, res, next) => {
     });
   }
 };
+
+// controller to remove from cart.
+export const removeBookFromCart = async (req, res, next) => {
+  try {
+    const data = await CartService.removeBookFromCart(req.params._id, req.body);
+    if (data) {
+      res.status(HttpStatus.CREATED).json({
+        code: HttpStatus.CREATED,
+        data: data,
+        message: 'Cart updated successfully'
+      });
+    }
+  } catch (error) {
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
+  }
+};
