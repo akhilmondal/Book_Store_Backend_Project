@@ -3,7 +3,8 @@ dotenv.config();
 import User from '../models/user.model';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
-
+import { send } from '../utils/sender';
+import { recieve } from '../utils/receiver';
 
 //create new user
 export const userRegistration = async (body) => {
@@ -16,6 +17,8 @@ export const userRegistration = async (body) => {
     const hash = bcrypt.hashSync(body.passWord, salt);
     body.passWord = hash;
     const data = await User.create(body);
+    send(`${data.fullName} is registered succesfully`);
+    recieve();
     return data;
   }
 };
