@@ -1305,3 +1305,119 @@ info: ::1 - - [04/Aug/2023:10:59:51 +0000] "POST /api/v1/carts/6215890d05253301a
 
 info: ::1 - - [04/Aug/2023:10:59:52 +0000] "POST /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
 
+info: ::1 - - [04/Aug/2023:11:19:13 +0000] "POST /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:19:20 +0000] "PUT /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:19:22 +0000] "PUT /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:19:23 +0000] "PUT /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:14 +0000] "PUT /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:24 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:25 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:27 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:28 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:30 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:31 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:33:13 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:33:37 +0000] "POST /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:33:51 +0000] "PUT /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [05/Aug/2023:15:32:51 +0000] "POST /api/v1/users/login HTTP/1.1" 202 291 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [05/Aug/2023:15:35:19 +0000] "POST /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+error: uncaughtException: EIO: i/o error, write
+Error: EIO: i/o error, write
+    at writeSync (node:fs:934:3)
+    at SyncWriteStream._write (node:internal/fs/sync_write_stream:26:3)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at SyncWriteStream.Writable.write (node:internal/streams/writable:337:10)
+    at Console.log (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js:82:19)
+    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:390:139)
+    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:381:5)
+    at Console.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:302:11)
+    at DerivedLogger.ondata (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:525:35)
+    at DerivedLogger.emit (node:domain:489:12)
+    at addChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)
+    at readableAddChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:262:11)
+    at DerivedLogger.Readable.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:228:10) {"date":"Sat Aug 05 2023 23:53:42 GMT+0530 (India Standard Time)","error":{"code":"EIO","errno":-5,"syscall":"write"},"exception":true,"os":{"loadavg":[0.79,0.53,0.59],"uptime":46581.11},"process":{"argv":["node","/home/akhil/CFP238/Book_Store_Backend/BookStore/src/index.js"],"cwd":"/home/akhil/CFP238/Book_Store_Backend/BookStore","execPath":"/usr/local/bin/node","gid":1000,"memoryUsage":{"arrayBuffers":18390692,"external":19882406,"heapTotal":94298112,"heapUsed":61999184,"rss":156229632},"pid":21542,"uid":1000,"version":"v18.16.1"},"stack":"Error: EIO: i/o error, write\n    at writeSync (node:fs:934:3)\n    at SyncWriteStream._write (node:internal/fs/sync_write_stream:26:3)\n    at writeOrBuffer (node:internal/streams/writable:392:12)\n    at _write (node:internal/streams/writable:333:10)\n    at SyncWriteStream.Writable.write (node:internal/streams/writable:337:10)\n    at Console.log (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js:79:23)\n    at Console._write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js:82:19)\n    at doWrite (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:390:139)\n    at writeOrBuffer (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:381:5)\n    at Console.Writable.write (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js:302:11)\n    at DerivedLogger.ondata (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:629:20)\n    at DerivedLogger.emit (node:events:525:35)\n    at DerivedLogger.emit (node:domain:489:12)\n    at addChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:279:12)\n    at readableAddChunk (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:262:11)\n    at DerivedLogger.Readable.push (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:228:10)","trace":[{"column":3,"file":"node:fs","function":"writeSync","line":934,"method":null,"native":false},{"column":3,"file":"node:internal/fs/sync_write_stream","function":"SyncWriteStream._write","line":26,"method":"_write","native":false},{"column":12,"file":"node:internal/streams/writable","function":"writeOrBuffer","line":392,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"_write","line":333,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"SyncWriteStream.Writable.write","line":337,"method":"write","native":false},{"column":23,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/lib/winston/transports/console.js","function":"Console.log","line":79,"method":"log","native":false},{"column":19,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/index.js","function":"Console._write","line":82,"method":"_write","native":false},{"column":139,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"doWrite","line":390,"method":null,"native":false},{"column":5,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"writeOrBuffer","line":381,"method":null,"native":false},{"column":11,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js","function":"Console.Writable.write","line":302,"method":"write","native":false},{"column":20,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"DerivedLogger.ondata","line":629,"method":"ondata","native":false},{"column":35,"file":"node:events","function":"DerivedLogger.emit","line":525,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"DerivedLogger.emit","line":489,"method":"emit","native":false},{"column":12,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"addChunk","line":279,"method":null,"native":false},{"column":11,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"readableAddChunk","line":262,"method":null,"native":false},{"column":10,"file":"/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js","function":"DerivedLogger.Readable.push","line":228,"method":"push","native":false}]}
+info: ::1 - - [07/Aug/2023:01:35:31 +0000] "POST /api/v1/books HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:35:40 +0000] "GET /api/v1/books HTTP/1.1" 400 89 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:37:13 +0000] "GET /api/v1/books?page=2&size=10 HTTP/1.1" 400 89 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:37:21 +0000] "GET /api/v1/books?page=2&size=10 HTTP/1.1" 400 89 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:37:53 +0000] "GET /api/v1/books?page=2&size=10 HTTP/1.1" 200 4576 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:38:18 +0000] "GET /api/v1/books?page=2&size=5 HTTP/1.1" 200 1571 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:41:00 +0000] "GET /api/v1/books?page=2 HTTP/1.1" 400 60 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:41:18 +0000] "GET /api/v1/books?page=2 HTTP/1.1" 200 2624 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:41:38 +0000] "GET /api/v1/books?page=3 HTTP/1.1" 200 2624 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:42:09 +0000] "GET /api/v1/books?page=3 HTTP/1.1" 200 2624 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:42:24 +0000] "GET /api/v1/books?page=4 HTTP/1.1" 200 2624 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:44:37 +0000] "GET /api/v1/books?page=4&size=5 HTTP/1.1" 200 1550 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:44:55 +0000] "GET /api/v1/books?page=5&size=5 HTTP/1.1" 200 711 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:01:45:20 +0000] "GET /api/v1/books?page=5&size=5 HTTP/1.1" 200 711 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:02:00:19 +0000] "GET /api/v1/books?page=5&size=5 HTTP/1.1" 200 711 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:02:00:24 +0000] "GET /api/v1/books?page=&size=5 HTTP/1.1" 200 2624 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:02:00:39 +0000] "GET /api/v1/books?page=1&size=5 HTTP/1.1" 200 2624 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:02:00:45 +0000] "GET /api/v1/books?page=2&size=5 HTTP/1.1" 200 1571 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:03:02:18 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Aug/2023:03:02:18 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Aug/2023:03:02:18 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Aug/2023:03:02:18 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Aug/2023:03:02:18 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Aug/2023:03:02:18 +0000] "GET /api-docs/favicon-16x16.png HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+
+info: ::1 - - [07/Aug/2023:03:29:47 +0000] "GET /api/v1/books?page=1&size=5 HTTP/1.1" 200 2624 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:08:40:27 +0000] "POST /users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:08:41:50 +0000] "POST /users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:08:42:35 +0000] "POST /api/v1 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:08:43:17 +0000] "POST /api/v1/users HTTP/1.1" 201 375 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:08:50:06 +0000] "POST /api/v1/users HTTP/1.1" 201 372 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:08:51:13 +0000] "POST /api/v1/users HTTP/1.1" 201 370 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:08:56:08 +0000] "POST /api/v1/users HTTP/1.1" 201 372 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [07/Aug/2023:09:02:12 +0000] "POST /api/v1/users HTTP/1.1" 201 370 "-" "PostmanRuntime/7.32.3"
+

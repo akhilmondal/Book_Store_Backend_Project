@@ -272,3 +272,31 @@ info: ::1 - - [04/Aug/2023:10:59:51 +0000] "POST /api/v1/carts/6215890d05253301a
 
 info: ::1 - - [04/Aug/2023:10:59:52 +0000] "POST /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
 
+info: ::1 - - [04/Aug/2023:11:19:13 +0000] "POST /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:19:20 +0000] "PUT /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:19:22 +0000] "PUT /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:19:23 +0000] "PUT /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:14 +0000] "PUT /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 448 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:24 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:25 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:27 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:28 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:30 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:20:31 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:33:13 +0000] "POST /api/v1/carts/6215892405253301a4fda5d2 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:33:37 +0000] "POST /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [04/Aug/2023:11:33:51 +0000] "PUT /api/v1/carts/6215890d05253301a4fda5d1 HTTP/1.1" 201 626 "-" "PostmanRuntime/7.32.3"
+

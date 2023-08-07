@@ -33,8 +33,8 @@ export const addBookToCart = async (_id, body) => {
     if (existingCartItem.length > 0) {
       const bookItem = cart.books.map((item) => {
         if (item.bookId == _id) {
-          total = cart.cartTotal + item.price; //cart total
           item.quantity += 1; //book quantity
+          total = cart.cartTotal + item.price; //cart total
         }
         return item;
       });

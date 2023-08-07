@@ -26,8 +26,8 @@ export const removeBookFromCart = async (req, res, next) => {
   try {
     const data = await CartService.removeBookFromCart(req.params._id, req.body);
     if (data) {
-      res.status(HttpStatus.CREATED).json({
-        code: HttpStatus.CREATED,
+      res.status(HttpStatus.OK).json({
+        code: HttpStatus.OK,
         data: data,
         message: 'Cart updated successfully'
       });
