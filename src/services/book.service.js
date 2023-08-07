@@ -2,7 +2,12 @@ import Book from '../models/book.model';
 
 // Get all Books
 export const getAllBooks = async () => {
-  const data = await Book.find();
+  let page = 1; //default page number
+  let size = 5; //default size
+  const pageNumber = parseInt(page);
+  const booksNumber = parseInt(size);
+  const skip = (pageNumber - 1) * size;
+  const data = await Book.find().limit(booksNumber).skip(skip);
   return data;
 };
 

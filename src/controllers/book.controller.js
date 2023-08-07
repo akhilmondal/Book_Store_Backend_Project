@@ -4,7 +4,7 @@ import * as BookService from '../services/book.service';
 //Controller to get all Books
 export const getAllBooks = async (req, res, next) => {
   try {
-    const data = await BookService.getAllBooks(req.body);
+    const data = await BookService.getAllBooks(req);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: data,

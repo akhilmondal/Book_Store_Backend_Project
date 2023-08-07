@@ -4,6 +4,7 @@ import User from '../models/user.model';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 
+
 //create new user
 export const userRegistration = async (body) => {
   const userPresent = await User.findOne({ emailId: body.emailId });
