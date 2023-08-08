@@ -1427,3 +1427,11 @@ info: ::1 - - [07/Aug/2023:11:35:25 +0000] "POST /api/v1/users HTTP/1.1" 201 362
 
 info: ::1 - - [07/Aug/2023:11:36:07 +0000] "POST /api/v1/users HTTP/1.1" 201 360 "-" "PostmanRuntime/7.32.3"
 
+info: ::1 - - [08/Aug/2023:02:27:07 +0000] "POST /api/v1/users/login HTTP/1.1" 202 307 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:02:29:02 +0000] "POST /api/v1/wishlist/6214803b05253301a4fda584 HTTP/1.1" 201 1416 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:02:29:15 +0000] "POST /api/v1/wishlist/6214803b05253301a4fda584 HTTP/1.1" 400 63 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:02:29:50 +0000] "POST /api/v1/wishlist/6215178d05253301a4fda5c4 HTTP/1.1" 201 1645 "-" "PostmanRuntime/7.32.3"
+
