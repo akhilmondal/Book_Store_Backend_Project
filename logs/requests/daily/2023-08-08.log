@@ -20,3 +20,17 @@ info: ::1 - - [08/Aug/2023:03:13:35 +0000] "POST /api/v1/books HTTP/1.1" 404 47 
 
 info: ::1 - - [08/Aug/2023:03:13:42 +0000] "GET /api/v1/books HTTP/1.1" 200 2624 "-" "PostmanRuntime/7.32.3"
 
+info: ::1 - - [08/Aug/2023:05:38:38 +0000] "GET /api/v1/books?page=2 HTTP/1.1" 200 1571 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:05:38:54 +0000] "GET /api/v1/books?page=3 HTTP/1.1" 200 3090 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:05:39:06 +0000] "GET /api/v1/books?page=4 HTTP/1.1" 200 1550 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:05:39:16 +0000] "GET /api/v1/books?page=5 HTTP/1.1" 200 711 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:05:41:02 +0000] "POST /api/v1/users HTTP/1.1" 400 57 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:05:41:12 +0000] "POST /api/v1/users HTTP/1.1" 201 369 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:05:42:40 +0000] "POST /api/v1/users/login HTTP/1.1" 202 319 "-" "PostmanRuntime/7.32.3"
+

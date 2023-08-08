@@ -1,8 +1,8 @@
 import Book from '../models/book.model';
 
 // Get all Books
-export const getAllBooks = async () => {
-  let page = 1; //default page number
+export const getAllBooks = async (req) => {
+  let { page } = req.query;
   let size = 5; //default size
   const pageNumber = parseInt(page);
   const booksNumber = parseInt(size);

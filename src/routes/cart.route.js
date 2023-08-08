@@ -4,8 +4,10 @@ import { userAuth } from '../middlewares/auth.middleware';
 
 const router = express.Router();
 
+//Add book to the cart
 router.post('/:_id', userAuth, CartController.addBookToCart);
 
+//Remove book from the cart
 router.put('/:_id', userAuth, CartController.removeBookFromCart);
 
 
