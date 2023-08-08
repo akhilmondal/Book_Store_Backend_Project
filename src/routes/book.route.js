@@ -8,7 +8,10 @@ const router = express.Router();
 router.get('', bookController.getAllBooks);
 
 //router for get book by id
-router.get('/:_id', userAuth, bookController.getBookById);
+//router.get('/:_id', userAuth, bookController.getBookById);
+
+//router to search book
+router.get('/search', userAuth, bookController.searchBook);
 
 //Router for Update Books
 router.put('/:_id', userAuth, userRoleCheck, bookController.updateBook);
