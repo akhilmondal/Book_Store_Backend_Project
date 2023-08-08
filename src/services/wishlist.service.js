@@ -55,3 +55,23 @@ export const addBookToWishList = async (_id, body) => {
     }
   }
 };
+
+//remove book from wishlist
+export const removeBookFromWishList = async (_id, body) => {
+  const wishList = await WishList.findOne({ userId: body.user_id });
+  if (wishList) {
+    wishList.books.map((item) => {
+      if (item.bookId == _id) {
+        wishList.books.pop(item);
+      }
+    });
+    const updatedWIshList = await WishList.findOneAndUpdate(
+      { userId: body.user_id },
+      { books: wishList.books },
+      {
+        new: true
+      }
+    );
+    return updatedWIshList;
+  }
+};
