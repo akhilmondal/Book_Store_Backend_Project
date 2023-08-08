@@ -73,7 +73,6 @@ export const addBookToCart = async (_id, body) => {
 };
 
 // Remove book from cart
-
 export const removeBookFromCart = async (_id, body) => {
   const cart = await Cart.findOne({ userId: body.user_id });
   if (cart) {
@@ -98,5 +97,20 @@ export const removeBookFromCart = async (_id, body) => {
       }
     );
     return updatedCart;
+  }
+};
+
+//Service to purchase books
+export const isPurchase = async (_id, body) => {
+  const cart = await Cart.findById({ _id: _id, userId: body.user_id });
+  if (cart.books[0] != null) {
+    const updatedCart = await Cart.findByIdAndUpdate(
+      { _id: _id },
+      { isPurchased: true },
+      { new: true }
+    );
+    return updatedCart;
+  } else {
+    throw new Error('Please atleast add one book in the cart to continue purchase.')
   }
 };

@@ -20,9 +20,9 @@ export const getBookById = async (_id) => {
 //search books
 export const searchBook = async (req) => {
   let { key } = req.query;
-  if (isNaN(key)) {
-    // checking the key is a number or not
-    const searchRegex = new RegExp(key, 'i');
+  if (isNaN(key)) {   // checking the key is a number or not
+    const searchRegex = new RegExp(key, 'i'); //To ignore Case
+    //console.log(searchRegex); //-----> /billy/i
 
     let searchedBook = await Book.find({
       $or: [

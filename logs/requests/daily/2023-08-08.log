@@ -92,3 +92,31 @@ info: ::1 - - [08/Aug/2023:09:11:03 +0000] "GET /api/v1/books/search/?key=adam H
 
 info: ::1 - - [08/Aug/2023:09:11:11 +0000] "GET /api/v1/books/search/?key=adam HTTP/1.1" 200 409 "-" "PostmanRuntime/7.32.3"
 
+info: ::1 - - [08/Aug/2023:09:59:38 +0000] "PUT /api/v1/carts/purchase/64ccd98ec3cc8b2b149f80ab HTTP/1.1" 200 628 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:00:16 +0000] "PUT /api/v1/carts/purchase/64ccd98ec3cc8b2b149f80ab HTTP/1.1" 200 628 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:01:02 +0000] "PUT /api/v1/carts/purchase/64ccd98ec3cc8b2b149f80ab HTTP/1.1" 200 647 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:02:25 +0000] "POST /api/v1/users/login HTTP/1.1" 202 319 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:03:22 +0000] "POST /api/v1/carts/6215178d05253301a4fda5c4 HTTP/1.1" 400 40 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:04:00 +0000] "POST /api/v1/users/login HTTP/1.1" 202 319 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:04:59 +0000] "POST /api/v1/carts/6215178d05253301a4fda5c4 HTTP/1.1" 201 489 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:05:48 +0000] "PUT /api/v1/carts/purchase/64ccd98ec3cc8b2b149f80ab HTTP/1.1" 400 84 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:06:17 +0000] "PUT /api/v1/carts/purchase/64ccd98ec3cc8b2b149f80ab HTTP/1.1" 400 84 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:06:46 +0000] "PUT /api/v1/carts/purchase/6215178d05253301a4fda5c4 HTTP/1.1" 400 84 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:08:18 +0000] "PUT /api/v1/carts/purchase/64d2134bc3c7e732a54a65b1 HTTP/1.1" 200 490 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:14:38 +0000] "POST /api/v1/carts/621588af05253301a4fda5ce HTTP/1.1" 201 667 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:14:42 +0000] "POST /api/v1/carts/621588af05253301a4fda5ce HTTP/1.1" 201 667 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:10:35:49 +0000] "GET /api/v1/books/search/?key=billy HTTP/1.1" 200 409 "-" "PostmanRuntime/7.32.3"
+
