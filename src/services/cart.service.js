@@ -1,6 +1,12 @@
 import Cart from '../models/cart.model';
 import * as BookService from '../services/book.service';
 
+//get cart
+export const getCart = async (body) => {
+  const cart = Cart.findOne({ userId: body.user_id });
+  return cart;
+};
+
 // Add book to cart
 export const addBookToCart = async (_id, body) => {
   const book = await BookService.getBookById(_id); // 1 sarching book
@@ -111,6 +117,8 @@ export const isPurchase = async (_id, body) => {
     );
     return updatedCart;
   } else {
-    throw new Error('Please atleast add one book in the cart to continue purchase.')
+    throw new Error(
+      'Please atleast add one book in the cart to continue purchase.'
+    );
   }
 };

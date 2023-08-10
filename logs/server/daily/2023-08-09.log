@@ -1,0 +1,163 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T01:32:06.659Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T01:32:06.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T01:34:44.363Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T01:34:44.382Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T03:49:32.735Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T03:49:32.756Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T05:25:24.953Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T05:25:37.529Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token f in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:83:15)
+    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:231:16)
+    at done (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/carts/621588d505253301a4fda5cf 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-08-09T07:39:40.851Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token f in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:83:15)
+    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:231:16)
+    at done (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/carts/621588d505253301a4fda5cf 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-08-09T07:44:06.882Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token f in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:83:15)
+    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:231:16)
+    at done (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/carts/621588d505253301a4fda5cf 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-08-09T07:44:09.513Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token f in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:83:15)
+    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:231:16)
+    at done (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/carts/621588d505253301a4fda5cf 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-08-09T07:51:13.211Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token f in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:83:15)
+    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:231:16)
+    at done (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/carts/621588d505253301a4fda5cf 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-08-09T07:54:29.984Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token f in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:83:15)
+    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:231:16)
+    at done (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/carts/621588d505253301a4fda5cf 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-08-09T07:58:14.678Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token f in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:160:10)
+    at parse (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/types/json.js:83:15)
+    at /home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:231:16)
+    at done (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/home/akhil/CFP238/Book_Store_Backend/BookStore/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/carts/621588d505253301a4fda5cf 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-08-09T07:58:47.564Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T08:09:50.663Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T08:09:50.681Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T08:42:04.331Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T08:42:04.356Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T09:55:17.642Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T09:55:17.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T10:07:20.725Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T10:07:20.764Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T10:07:39.896Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T10:07:39.937Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T10:07:58.577Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T10:07:58.608Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T10:09:10.847Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T10:09:10.881Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T10:09:34.099Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T10:09:34.125Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T10:10:28.513Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T10:10:28.547Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T10:49:01.500Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T10:49:01.524Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-08-09T12:35:55.277Z"}
+info: Connected to the database. {"timestamp":"2023-08-09T12:35:55.309Z"}

@@ -1,6 +1,28 @@
 import HttpStatus from 'http-status-codes';
 import * as CartService from '../services/cart.service';
 
+
+//get cart controller
+export const getCart = async (req, res, next) => {
+  try {
+    const data = await CartService.getCart(req.body);
+    if (data) {
+      res.status(HttpStatus.CREATED).json({
+        code: HttpStatus.CREATED,
+        data: data,
+        message: 'Cart fetched successfully'
+      });
+    }
+  } catch (error) {
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
+  }
+};
+
+
+
 export const addBookToCart = async (req, res, next) => {
   try {
     const data = await CartService.addBookToCart(req.params._id, req.body);

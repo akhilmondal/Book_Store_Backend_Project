@@ -120,3 +120,17 @@ info: ::1 - - [08/Aug/2023:10:14:42 +0000] "POST /api/v1/carts/621588af05253301a
 
 info: ::1 - - [08/Aug/2023:10:35:49 +0000] "GET /api/v1/books/search/?key=billy HTTP/1.1" 200 409 "-" "PostmanRuntime/7.32.3"
 
+info: ::1 - - [08/Aug/2023:11:08:50 +0000] "GET /api/v1/books/search/?key=bill HTTP/1.1" 200 409 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:11:08:57 +0000] "GET /api/v1/books/search/?key=bil HTTP/1.1" 200 409 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:11:09:02 +0000] "GET /api/v1/books/search/?key=bi HTTP/1.1" 200 710 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:11:09:22 +0000] "GET /api/v1/books/search/?key=robin HTTP/1.1" 200 368 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:11:34:54 +0000] "GET /api/v1/books/search/?key=lin HTTP/1.1" 200 1955 "-" "PostmanRuntime/7.32.3"
+
+info: ::1 - - [08/Aug/2023:11:38:42 +0000] "POST /api/v1/users/login HTTP/1.1" 202 291 "http://localhost:4200/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+
+info: ::1 - - [08/Aug/2023:11:38:58 +0000] "GET /api/v1//books HTTP/1.1" 200 2624 "http://localhost:4200/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+

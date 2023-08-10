@@ -3,7 +3,7 @@ import Book from '../models/book.model';
 // Get all Books
 export const getAllBooks = async (req) => {
   let { page } = req.query;
-  let size = 5; //default size
+  let size = 10; //default size
   const pageNumber = parseInt(page);
   const booksNumber = parseInt(size);
   const skip = (pageNumber - 1) * size;
