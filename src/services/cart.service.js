@@ -35,10 +35,10 @@ export const addBookToCart = async (_id, body) => {
     return cart;
   } else {
     let total;
-    const existingCartItem = cart.books.filter((item) => item.bookId == _id);
+    const existingCartItem = cart.books.filter((item) => item.bookId === _id);
     if (existingCartItem.length > 0) {
       const bookItem = cart.books.map((item) => {
-        if (item.bookId == _id) {
+        if (item.bookId === _id) {
           item.quantity += 1; //book quantity
           total = cart.cartTotal + item.price; //cart total
         }
@@ -63,7 +63,8 @@ export const addBookToCart = async (_id, body) => {
         quantity: 1,
         price: book.price
       });
-      total = cart.cartTotal + book.price; //updating the total price of the cart.
+      total = cart.cartTotal + book.price;
+      //updating the total price of the cart.
 
       // After adding the book in the cart updating it in the server.
       const updatedCart = await Cart.findOneAndUpdate(
@@ -84,8 +85,8 @@ export const removeBookFromCart = async (_id, body) => {
   if (cart) {
     let total;
     cart.books.map((item) => {
-      if (item.bookId == _id) {
-        if (item.quantity != 1) {
+      if (item.bookId === _id) {
+        if (item.quantity !== 1) {
           total = cart.cartTotal - item.price; //cart total
           item.quantity -= 1; //book quantity
           return item;
@@ -109,7 +110,7 @@ export const removeBookFromCart = async (_id, body) => {
 //Service to purchase books
 export const isPurchase = async (_id, body) => {
   const cart = await Cart.findById({ _id: _id, userId: body.user_id });
-  if (cart.books[0] != null) {
+  if (cart.books[0] !== null) {
     const updatedCart = await Cart.findByIdAndUpdate(
       { _id: _id },
       { isPurchased: true },

@@ -28,7 +28,7 @@ export const addBookToWishList = async (_id, body) => {
     return wishList;
   } else {
     const existingWishListItem = wishList.books.filter(
-      (item) => item.bookId == _id
+      (item) => item.bookId === _id
     );
     if (existingWishListItem.length > 0) {
       throw new Error('Book is already in the wishlist');
@@ -61,7 +61,7 @@ export const removeBookFromWishList = async (_id, body) => {
   const wishList = await WishList.findOne({ userId: body.user_id });
   if (wishList) {
     wishList.books.map((item) => {
-      if (item.bookId == _id) {
+      if (item.bookId === _id) {
         wishList.books.pop(item);
       }
     });

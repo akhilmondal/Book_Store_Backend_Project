@@ -1,9 +1,8 @@
 import HttpStatus from 'http-status-codes';
 import * as CartService from '../services/cart.service';
 
-
 //get cart controller
-export const getCart = async (req, res, next) => {
+export const getCart = async (req, res) => {
   try {
     const data = await CartService.getCart(req.body);
     if (data) {
@@ -21,9 +20,7 @@ export const getCart = async (req, res, next) => {
   }
 };
 
-
-
-export const addBookToCart = async (req, res, next) => {
+export const addBookToCart = async (req, res) => {
   try {
     const data = await CartService.addBookToCart(req.params._id, req.body);
     if (data) {
@@ -44,7 +41,7 @@ export const addBookToCart = async (req, res, next) => {
 };
 
 // controller to remove from cart.
-export const removeBookFromCart = async (req, res, next) => {
+export const removeBookFromCart = async (req, res) => {
   try {
     const data = await CartService.removeBookFromCart(req.params._id, req.body);
     if (data) {
@@ -63,7 +60,7 @@ export const removeBookFromCart = async (req, res, next) => {
 };
 
 //Controller to purchase book
-export const isPurchase = async (req, res, next) => {
+export const isPurchase = async (req, res) => {
   try {
     const data = await CartService.isPurchase(req.params._id, req.body);
     if (data) {

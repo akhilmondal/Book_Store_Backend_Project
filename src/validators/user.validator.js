@@ -9,13 +9,16 @@ export const newUserValidator = (req, res, next) => {
     emailId: Joi.string()
       .email()
       .regex(
+        // eslint-disable-next-line max-len
         /^([a-zA-Z]{3,}([.|_|+|-]?[a-zA-Z0-9]+)?[@][a-zA-Z0-9]+[.][a-zA-Z]{2,3}([.]?[a-zA-Z]{2,3})?)$/
       )
       .required(),
     passWord: Joi.string()
       .regex(/^[0-9A-Za-z]{7,}[@!#$%^&*]{1,}$/)
       .required(),
-    phoneNumber: Joi.string().regex(/^91\s\d{10}$/).required(),
+    phoneNumber: Joi.string()
+      .regex(/^91\s\d{10}$/)
+      .required(),
     designation: Joi.string().optional()
   });
   const { error, value } = schema.validate(req.body);

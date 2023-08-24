@@ -14,7 +14,10 @@ export const recieve = () => {
       var queue = 'queue2';
 
       channel.assertQueue(queue, {
-        durable: false  //"durable" is an attribute that can be applied to exchanges and queues to indicate that they should survive server restarts or crashes.
+        durable: false
+        //"durable" is an attribute that can be applied to exchanges
+        //and queues to indicate that they
+        // should survive server restarts or crashes.
       });
 
       console.log(

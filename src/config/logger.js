@@ -70,4 +70,15 @@ export const logStream = {
   }
 };
 
+export const customLogger = winston.createLogger({
+  format: format.combine(format.timestamp(), format.simple()),
+  transports: [
+    new winston.transports.File({
+      filename: 'logs/server/customErrorLogs.log',
+      level: 'error',
+      handleExceptions: true
+    })
+  ]
+});
+
 export default logger;

@@ -2,7 +2,7 @@ import HttpStatus from 'http-status-codes';
 import * as BookService from '../services/book.service';
 
 //Controller to get all Books
-export const getAllBooks = async (req, res, next) => {
+export const getAllBooks = async (req, res) => {
   try {
     const data = await BookService.getAllBooks(req);
     res.status(HttpStatus.OK).json({
@@ -19,7 +19,7 @@ export const getAllBooks = async (req, res, next) => {
 };
 
 // Controller for get book by id
-export const getBookById = async (req, res, next) => {
+export const getBookById = async (req, res) => {
   try {
     const data = await BookService.getBookById(req.params._id);
     res.status(HttpStatus.OK).json({
@@ -36,7 +36,7 @@ export const getBookById = async (req, res, next) => {
 };
 
 //search book controller
-export const searchBook = async (req, res, next) => {
+export const searchBook = async (req, res) => {
   try {
     const data = await BookService.searchBook(req);
     res.status(HttpStatus.OK).json({
@@ -53,7 +53,7 @@ export const searchBook = async (req, res, next) => {
 };
 
 //Controller to Update Book
-export const updateBook = async (req, res, next) => {
+export const updateBook = async (req, res) => {
   try {
     const data = await BookService.updateBook(req.params._id, req.body);
     res.status(HttpStatus.ACCEPTED).json({

@@ -28,7 +28,7 @@ export const userAuth = async (req, res, next) => {
 
 export const userRoleCheck = async (req, res, next) => {
   try {
-    if (userDesignation == 'admin') {
+    if (userDesignation === 'admin') {
       next();
     } else {
       throw {

@@ -1,7 +1,7 @@
 import HttpStatus from 'http-status-codes';
 import * as WishListService from '../services/wishlist.service';
 
-export const addBookToWishList = async (req, res, next) => {
+export const addBookToWishList = async (req, res) => {
   try {
     const data = await WishListService.addBookToWishList(
       req.params._id,
@@ -25,9 +25,12 @@ export const addBookToWishList = async (req, res, next) => {
 };
 
 //controller to remove book from wishlist
-export const removeBookFromWishList = async (req, res, next) => {
+export const removeBookFromWishList = async (req, res) => {
   try {
-    const data = await WishListService.removeBookFromWishList(req.params._id, req.body);
+    const data = await WishListService.removeBookFromWishList(
+      req.params._id,
+      req.body
+    );
     if (data) {
       res.status(HttpStatus.OK).json({
         code: HttpStatus.OK,
